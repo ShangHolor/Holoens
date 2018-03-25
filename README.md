@@ -9,15 +9,15 @@ A Hololens application that enhances user experience when read hard copy books.
 
 ## Demo
 
-[![cover](https://github.com/ShangHolor/backend/blob/master/screenshots/cover.png)](https://youtu.be/oHxGKFy0GbU)
+[![cover](https://github.com/ShangHolor/Holoens/blob/master/screenshots/cover.png)](https://youtu.be/oHxGKFy0GbU)
 
 The image above is a link to the demo video, if you are not redirected to the video, you can also click [here](https://youtu.be/oHxGKFy0GbU).
 
 Below are two .gif images we extract from the video.
 
-![feature1](https://github.com/ShangHolor/backend/blob/master/screenshots/feature1.gif)
+![feature1](https://github.com/ShangHolor/Holoens/blob/master/screenshots/feature1.gif)
 
-![feature2](https://github.com/ShangHolor/backend/blob/master/screenshots/feature2.gif)
+![feature2](https://github.com/ShangHolor/Holoens/blob/master/screenshots/feature2.gif)
 
 
 ## Inspiration
