@@ -1,3 +1,25 @@
+# Holo Reader
+![device](https://img.shields.io/badge/device-Hololens-red.svg)
+![project for](https://img.shields.io/badge/project%20for-HackNYU-blue.svg)
+
+**Still paper, yet smarter**
+
+A Hololens application that enhances user experience when read hard copy books.
+
+
+## Demo
+
+[![cover](https://github.com/ShangHolor/backend/blob/master/screenshots/cover.png)](https://youtu.be/oHxGKFy0GbU)
+
+The image above is a link to the demo video, if you are not redirected to the video, you can also click [here](https://youtu.be/oHxGKFy0GbU).
+
+Below are two .gif images we extract from the video.
+
+![feature1](https://github.com/ShangHolor/backend/blob/master/screenshots/feature1.gif)
+
+![feature2](https://github.com/ShangHolor/backend/blob/master/screenshots/feature2.gif)
+
+
 ## Inspiration
 
 Have you ever stuck in the dilemma of reading paper book or reading PDF? When some people read book, they prefer to use paper book instead of PDF or any other digit text. However, they still want to mark on the book freely and look up words instantly. Therefore, we intend to help users have a better experience of reading paper book but also realizing the methods that digital text editor can provide. Thanks to our **Holo Reader**, hard copy lovers can still enjoy the merits of electronic books!
@@ -14,7 +36,7 @@ Highlight texts on hard copy, and marks will be synchronized to other electronic
 
 ## How we built it
 - We split our group into two parts: front-end and back-end.
-- Front-end group spent several hours on building up the Hololens developer environment on Windows,and then followed the instructions on Microsoft official website t o create some demos to test basic commands such as voice control, AR mode, cursor recaster, zoom-in/zoom-out, etc. After that, we used Unity, vuforia and C# to realize the function we planned.
+- Front-end group spent several hours on building up the Hololens developer environment on Windows,and then followed the instructions on Microsoft official website to create some demos to test basic commands such as voice control, AR mode, cursor recaster, zoom-in/zoom-out, etc. After that, we used Unity, vuforia and C# to realize the function we planned.
 - Back-end group is responsible for data transfer and image processing with Python. With open CV library, the word that is nearest to the fingertip is detected and the meaning of this word will be sent to the client. We implemented the data transfer on the server side with Python Flask framework. 
 
 
